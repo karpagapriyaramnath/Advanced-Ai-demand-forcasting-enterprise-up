@@ -1,0 +1,19 @@
+date,product,category,region,quantity,sales
+01-01-2025,Green Tea,Wellness,South,120,1800
+01-02-2025,Green Tea,Wellness,South,136,2040
+01-03-2025,Green Tea,Wellness,South,148,2220
+01-04-2025,Green Tea,Wellness,South,162,2430
+01-05-2025,Green Tea,Wellness,South,178,2670
+01-06-2025,Green Tea,Wellness,South,191,2865
+01-01-2025,Organic Soap,Personal Care,West,95,1425
+01-02-2025,Organic Soap,Personal Care,West,104,1560
+01-03-2025,Organic Soap,Personal Care,West,118,1770
+01-04-2025,Organic Soap,Personal Care,West,127,1905
+01-05-2025,Organic Soap,Personal Care,West,139,2085
+01-06-2025,Organic Soap,Personal Care,West,151,2265
+01-01-2025,Herbal Shampoo,Personal Care,North,80,2000
+01-02-2025,Herbal Shampoo,Personal Care,North,88,2200
+01-03-2025,Herbal Shampoo,Personal Care,North,93,2325
+01-04-2025,Herbal Shampoo,Personal Care,North,101,2525
+01-05-2025,Herbal Shampoo,Personal Care,North,112,2800
+01-06-2025,Herbal Shampoo,Personal Care,North,119,2975
